@@ -1,0 +1,3 @@
+rootProject.name = 'Pictogram'
+
+include ':app'
