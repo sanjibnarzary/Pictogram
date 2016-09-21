@@ -1,8 +1,8 @@
 /**
- * Sample React Native App
- * https://github.com/facebook/react-native
- * @flow
- */
+* @author: Sanjib Narzary
+* @email: alayaran@gmail.com
+* @organization: Pictogram
+*/
 
 import React, { Component } from 'react';
 import {
